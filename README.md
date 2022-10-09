@@ -1,0 +1,2 @@
+# nethmi
+school management system
